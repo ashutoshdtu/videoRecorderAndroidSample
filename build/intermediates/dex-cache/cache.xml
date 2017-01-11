@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.1_1b7c8fda3dd0bef887bf5d4cbbe3f8ec3011c9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_3d21a9c14a369d1f823fed9b6993879bedc5b2fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7062141a10f99fe51ccb29620fb394e9dd5705e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_900ca98376761e12fa192dba76ea793eaa46fab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_2185a7a20d843dbfff7f83d91e4878771bba35b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e801800dcd706a4a64e5cf9b357d4b3f5e9bd2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_216447a7caf0600392dadaac38a4574782b0036c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_f25d1325747f351e7c70753a367f56b664ac4449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_4df5f95a5ebc20f1a2c9efcc12b0408f590c78ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_edb48c452884434cf78e4ff658ed3792ae11cf22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_697903a873cbc2ea9ad489bb8f49691dced0609f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_fc4cef99a8c650b834937ec90ee13116bdb92b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e838580617b1fd36aa81129df93fc5b19eb182fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cf23ae694d406bfcc279ce7c4480f7cff5eb3fe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5939fdfea663885530aaa45db6bb7d22ccb7b21b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_91fc6d70ce5f68e014a7eac12e8be01a9febed58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_a19511892479ec4163307c652a7948691e87d12c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/nik/Personal/android-Camera2Video/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_453888f028963178c26473b3bcf3416a19b2583a.jar" />
+    </item>
+
+</items>
